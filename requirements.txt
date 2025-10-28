@@ -1,3 +1,0 @@
-git rm requirements.txt
-git commit -m "Remove requirements.txt"
-git push
